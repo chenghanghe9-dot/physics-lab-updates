@@ -5,14 +5,15 @@
   "published_at": "2026-10-25T00:00:00Z",
   "download_url": "https://github.com/chenghanghe9-dot/physics-lab-updates/releases/download/v0.2.5/PhysicsLab-portable-0.2.5.zip",
   "file_name": "PhysicsLab-portable-0.2.5.zip",
-  "size": 86767496,
-  "sha256": "c2268fa54229c8f8561434e9da40d21054fc37b67c119d82c018f87aa67eccd1",
+  "size": 86762424,
+  "sha256": "bd090709d02afc709066138f6f7c6ca303c53ab9fa649a530a4acc3097782afc",
   "package_type": "portable_zip",
   "app_dir": "高中物理交互模型实验室",
   "executable": "高中物理交互模型实验室.exe",
   "changelog": [
     "基础版本占位清单",
-    "验证 GitHub 公网更新地址是否可访问"
+    "验证 GitHub 公网更新地址是否可访问",
+    "补充 GitHub Release 资产重定向主机白名单"
   ],
   "mandatory": false,
   "backup_download_urls": []
