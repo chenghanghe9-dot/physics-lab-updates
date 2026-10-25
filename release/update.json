@@ -1,19 +1,23 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "0.2.5",
-  "published_at": "2026-10-25T00:00:00Z",
-  "download_url": "https://github.com/chenghanghe9-dot/physics-lab-updates/releases/download/v0.2.5/PhysicsLab-portable-0.2.5.zip",
-  "file_name": "PhysicsLab-portable-0.2.5.zip",
-  "size": 86762424,
-  "sha256": "bd090709d02afc709066138f6f7c6ca303c53ab9fa649a530a4acc3097782afc",
+  "version": "0.2.6",
+  "published_at": "2026-10-25T15:44:25Z",
+  "download_url": "https://github.com/chenghanghe9-dot/physics-lab-updates/releases/download/v0.2.6/PhysicsLab-portable-0.2.6.zip",
+  "file_name": "PhysicsLab-portable-0.2.6.zip",
+  "size": 86803115,
+  "sha256": "2fcf4055478b22036fa1355ccc914d6f3dfd04cc0c35fe527aa05a3c2c8abdfd",
   "package_type": "portable_zip",
   "app_dir": "高中物理交互模型实验室",
   "executable": "高中物理交互模型实验室.exe",
   "changelog": [
-    "基础版本占位清单",
-    "验证 GitHub 公网更新地址是否可访问",
-    "补充 GitHub Release 资产重定向主机白名单"
+    "v0.2.6",
+    "新增「机械能守恒」交互模型",
+    "支持理想斜面、有摩擦斜面和过山车曲面轨道",
+    "实时展示动能、重力势能、内能和机械能",
+    "新增三色能量堆叠柱状图与速度矢量动画",
+    "公式区新增当前状态实时数值和公式高亮",
+    "更新顶部滚动横幅监制与赞助名单"
   ],
   "mandatory": false,
   "backup_download_urls": []
